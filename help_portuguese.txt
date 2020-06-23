@@ -1,0 +1,16 @@
+Formato das Expressões:
+-> Valor1 Valor2 ... ValorN -Operação
+
+Operações Compostas:
+-> Valor1 Valor2 ... ValorN -Operação Valor1 Valor2 ... ValorN -Operação -Operação
+
+Comandos:
+-+ -> soma entre valores
+-- -> subtração entre valores
+-* -> multiplicação entre valores
+-/ -> divisão entre valores
+-h -> Exibe informações de Ajuda
+-q -> Fechar a Calculadora
+
+Definindo Funções:
+def f(variaveis): Variavel1/Valor1 Variavel2/Valor2 ... VariavelN/ValorN -Operação 

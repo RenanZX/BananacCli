@@ -1,0 +1,16 @@
+Expression Format:
+-> Value1 Value2 ... ValueN -Operation
+
+Operation Composition:
+-> Value1 Value2 ... ValueN -Operation Value1 Value2 ... ValueN -Operation -Operation
+
+Commands:
+-+ -> sum values
+-- -> subtract values
+-* -> multiply values
+-/ -> divide values
+-h -> Show information help
+-q -> Close Calculator
+
+Define Functions:
+def f(variables): Variable1/Value1 Variable2/Value2 ... VariableN/ValueN -Operation
