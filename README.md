@@ -61,7 +61,7 @@ result: `7290000000.0`
 
 You can create your own functions too, you'll need to define in this format:
 
-`def f(arguments): (Value1 or Variable1) .... (ValueN or VariableN) -Operation`
+`def f(arguments):(Value1 or Variable1) .... (ValueN or VariableN) -Operation`
 
 ### Example:
 
