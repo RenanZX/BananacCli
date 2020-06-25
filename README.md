@@ -1,5 +1,5 @@
-# BananacClt
-A calculator cli that performs like a banana developed in python
+# BananacCli
+A complete calculator cli developed in python
 
 # Usage
 
