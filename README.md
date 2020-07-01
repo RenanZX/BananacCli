@@ -61,13 +61,13 @@ result: `7290000000.0`
 
 You can create your own functions too, you'll need to define in this format:
 
-`def f(arguments):(Value1 or Variable1) .... (ValueN or VariableN) -Operation`
+`def f(arguments): (Value1 or Variable1) .... (ValueN or VariableN) -Operation`
 
 ### Example:
 
 the following function will calculate an percentage: 
 
-`def f(x):x 1.5 -*`
+`def f(x): x 1.5 -*`
 
 You can call your function:
 
@@ -75,7 +75,13 @@ You can call your function:
 
 result:`6.0`
 
+You can operate functions too:
+
+`f(4) f(5) -+`
+
+result: `13,5`
+
 # Goals
-- Add conditional function support
+- Add recursive function support
 - Add more useful operations(derivative,integral,etc)
 - Add support to base numbers
